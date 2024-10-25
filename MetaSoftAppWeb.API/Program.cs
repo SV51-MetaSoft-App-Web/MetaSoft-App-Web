@@ -45,7 +45,7 @@ else if (builder.Environment.IsProduction())
 // Configure Dependency Injection
 builder.Services.AddScoped<IUnitOfWOrk, UnitOfWork>();
 
-// News Bounded Context Dependency Injection
+// Client Management Bounded Context Dependency Injection
 builder.Services.AddScoped<IClientCommandService, ClientCommandService>();
 builder.Services.AddScoped<IClientRepository, ClientRepository>();
 builder.Services.AddScoped<IClientQueryService, ClientQueryService>();
