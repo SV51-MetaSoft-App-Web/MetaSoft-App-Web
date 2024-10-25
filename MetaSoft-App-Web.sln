@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetaSoft-App-Web", "MetaSoft-App-Web\MetaSoft-App-Web.csproj", "{AD8E3F05-D9BD-48E0-9242-FF0E4B50D992}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD8E3F05-D9BD-48E0-9242-FF0E4B50D992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD8E3F05-D9BD-48E0-9242-FF0E4B50D992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD8E3F05-D9BD-48E0-9242-FF0E4B50D992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD8E3F05-D9BD-48E0-9242-FF0E4B50D992}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
