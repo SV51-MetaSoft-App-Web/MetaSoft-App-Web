@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetaSoft-App-Web", "MetaSoft-App-Web\MetaSoft-App-Web.csproj", "{AD8E3F05-D9BD-48E0-9242-FF0E4B50D992}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetaSoftAppWeb.API", "MetaSoftAppWeb.API\MetaSoftAppWeb.API.csproj", "{AD8E3F05-D9BD-48E0-9242-FF0E4B50D992}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,5 +1,6 @@
 using MetaSoftAppWeb.Shared.Infrastructure.Persistence.EFC.Configuration.Extensions;
 using EntityFrameworkCore.CreatedUpdatedDate.Extensions;
+using MetaSoftAppWeb.Shared.Infrastructure.Persistence.EFC.Configuration.Extensions.Extensions;
 using Microsoft.EntityFrameworkCore;
 
 namespace MetaSoftAppWeb.Shared.Infrastructure.Persistence.EFC.Configuration.Extensions;

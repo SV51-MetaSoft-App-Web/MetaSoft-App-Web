@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Mvc.ApplicationModels;
-using MetaSoftAppWeb.Shared.Infrastructure.Interfaces.ASP.Configuration.Extensions;
+using MetaSoftAppWeb.Shared.Infrastructure.Interfaces.ASP.Configuration.Extensions.Extensions;
 
 namespace MetaSoftAppWeb.Shared.Infrastructure.Interfaces.ASP.Configuration.Extensions;
 
