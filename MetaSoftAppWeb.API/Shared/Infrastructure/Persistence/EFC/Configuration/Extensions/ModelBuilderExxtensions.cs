@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 
-namespace MetaSoftAppWeb.Shared.Infrastructure.Persistence.EFC.Configuration.Extensions.Extensions;
+namespace MetaSoftAppWeb.API.Shared.Infrastructure.Persistence.EFC.Configuration.Extensions.Extensions;
 
 public static class ModelBuilderExtensions
 {
