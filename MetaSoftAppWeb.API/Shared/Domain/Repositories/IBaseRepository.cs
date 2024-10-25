@@ -1,4 +1,4 @@
-namespace MetaSoftAppWeb.Shared.Domain.Repositories;
+namespace MetaSoftAppWeb.API.Shared.Domain.Repositories;
 
 public interface IBaseRepository<TEntity>
 {

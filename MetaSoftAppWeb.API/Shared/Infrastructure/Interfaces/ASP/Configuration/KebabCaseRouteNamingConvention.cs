@@ -1,7 +1,7 @@
+using MetaSoftAppWeb.API.Shared.Infrastructure.Interfaces.ASP.Configuration.Extensions.Extensions;
 using Microsoft.AspNetCore.Mvc.ApplicationModels;
-using MetaSoftAppWeb.Shared.Infrastructure.Interfaces.ASP.Configuration.Extensions.Extensions;
 
-namespace MetaSoftAppWeb.Shared.Infrastructure.Interfaces.ASP.Configuration.Extensions;
+namespace MetaSoftAppWeb.API.Shared.Infrastructure.Interfaces.ASP.Configuration.Extensions;
 
 public class KebabCaseRouteNamingConvention : IControllerModelConvention
 {
