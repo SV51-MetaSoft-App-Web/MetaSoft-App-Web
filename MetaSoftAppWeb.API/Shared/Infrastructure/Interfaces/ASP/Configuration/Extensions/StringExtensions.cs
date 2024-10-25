@@ -1,6 +1,6 @@
 using System.Text.RegularExpressions;
 
-namespace MetaSoftAppWeb.Shared.Infrastructure.Interfaces.ASP.Configuration.Extensions.Extensions;
+namespace MetaSoftAppWeb.API.Shared.Infrastructure.Interfaces.ASP.Configuration.Extensions.Extensions;
 
 /// <summary>
 /// Extension methods for <see cref="string"/>. 
